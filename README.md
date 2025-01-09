@@ -4,7 +4,7 @@
 **The most reliable, accurate, and affordable business email finder on the market.**  
 If we can’t find it, no one else can.  
 
-Visit the **[RapidAPI Marketplace](https://rapidapi.com/merrachsamir2000-VROpiUqxyqE/api/pro-email-finder)**.  
+Visit the **[Pro Email Finder](https://rapidapi.com/merrachsamir2000-VROpiUqxyqE/api/pro-email-finder)**.  
 
 ## 🚀 Introduction  
 Email Finder API is the ultimate tool for businesses, marketers, recruiters, and sales professionals looking to enhance their outreach strategies. It revolutionizes communication by ensuring precision and effectiveness, helping you reduce bounce rates and secure seamless connections with every contact.  
@@ -78,7 +78,7 @@ Hunter.io, FindThatLead, Skrapp, Overloop, VoilaNorbert, RocketReach, Nymeria, L
 ---
 
 ## 🤝 Get Started  
-1. Visit the **[RapidAPI Marketplace](https://rapidapi.com/merrachsamir2000-VROpiUqxyqE/api/pro-email-finder)**.  
+1. Visit the **[Pro Email Finder](https://rapidapi.com/merrachsamir2000-VROpiUqxyqE/api/pro-email-finder)**.  
 2. Subscribe to the plan that best fits your needs.  
 3. Start integrating and finding accurate emails instantly!  
 
