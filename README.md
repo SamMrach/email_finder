@@ -55,7 +55,7 @@ The API returns the found email in the following format:
 ## 💸 Fair Pricing  
 We believe in providing **affordable and transparent pricing** to make professional email discovery accessible for everyone.  
 
-📌 Check out our pricing tiers and subscribe today on **[RapidAPI Marketplace](https://rapidapi.com/merrachsamir2000-VROpiUqxyqE/api/pro-email-finder)**.  
+📌 Check out our pricing tiers and subscribe today on **[Pro Email Finder](https://rapidapi.com/merrachsamir2000-VROpiUqxyqE/api/pro-email-finder)**.  
 
 Whether you're a small business or a large enterprise, there’s a plan that suits your needs. Start with a **free trial** and scale up as you grow!  
 
