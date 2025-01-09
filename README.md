@@ -1,11 +1,10 @@
-Here’s an updated README with fair pricing details and an invitation to subscribe on RapidAPI:  
-
----
 
 # 📧 Email Finder API  
 
 **The most reliable, accurate, and affordable business email finder on the market.**  
 If we can’t find it, no one else can.  
+
+Visit the **[RapidAPI Marketplace](https://rapidapi.com/merrachsamir2000-VROpiUqxyqE/api/pro-email-finder)**.  
 
 ## 🚀 Introduction  
 Email Finder API is the ultimate tool for businesses, marketers, recruiters, and sales professionals looking to enhance their outreach strategies. It revolutionizes communication by ensuring precision and effectiveness, helping you reduce bounce rates and secure seamless connections with every contact.  
@@ -39,7 +38,8 @@ The API returns the found email in the following format:
 
 ```json
 {
-  "found_email": "sam@openai.com"
+  "found_email": "sam@openai.com",
+  "status": true
 }
 ```  
 
